@@ -6,7 +6,25 @@
     color: #ffffff;
     background-color: #000000;
     line-height: normal !important; 
+    list-style-type: none;
     
+}
+
+
+.header_links
+{
+  word-spacing: 60px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.core_content
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  flex: 1;
 }
 
 
